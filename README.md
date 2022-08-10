@@ -33,7 +33,7 @@ Antes de começar, você precisa ter [Git](https://git-scm.com), [Node](https://
  npx react-native run-android
 
  # The application will initialize in Android Studio
-```
+``` 
 
 ## Licença
 
