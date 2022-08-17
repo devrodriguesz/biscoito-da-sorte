@@ -3,21 +3,21 @@
 
 O biscoito da sorte é um biscoito pequeno que contém uma mensagem no seu interior. Ao quebrá-lo você terá acesso há um aforismo, uma frase de reflexão, ou até mesmo números para serem utilizados em jogos de sorte. Com esse esse aplicativo você poderá se deliciar com essa leitura.
 
-## 🎯 About
+## 🎯 Sobre
 Colocar em prática conhecimentos adquiridos e transmitir mensagens de boas vibrações.
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 • [React Native](https://reactnative.dev)
 
 • [Javascript](https://www.javascript.com)
 
 • [React](https://pt-br.reactjs.org)
 
-## ✅ Requirements
+## ✅ Requisitos
 
 Antes de começar, você precisa ter [Git](https://git-scm.com), [Node](https://nodejs.org/en/) e [Android Studio](https://developer.android.com/studio) instalados.
 
-## 🏁 Starting
+## 🏁 Iniciando
 
 ```bash 
  # Clone this project
